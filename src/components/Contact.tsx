@@ -17,7 +17,7 @@ export const Contact = () => {
           
           <div className="grid md:grid-cols-3 gap-6 mb-12">
             <a 
-              href="mailto:alrick.fernandes@email.com"
+              href="mailto:alrick.ferns@gmail.com"
               className="bg-white/5 backdrop-blur-sm p-8 rounded-2xl border border-white/10 hover:bg-white/10 transition-all duration-300 group block"
             >
               <div className="w-16 h-16 bg-gradient-to-r from-blue-500 to-blue-600 rounded-2xl flex items-center justify-center mx-auto mb-4 group-hover:scale-110 transition-transform duration-300">
@@ -28,7 +28,7 @@ export const Contact = () => {
             </a>
             
             <a 
-              href="https://linkedin.com/in/alrickfernandes"
+              href="https://www.linkedin.com/in/alrick-fernandes-17181146/"
               target="_blank"
               rel="noopener noreferrer"
               className="bg-white/5 backdrop-blur-sm p-8 rounded-2xl border border-white/10 hover:bg-white/10 transition-all duration-300 group block"
@@ -55,7 +55,7 @@ export const Contact = () => {
               <div>
                 <h4 className="text-lg font-semibold text-blue-200 mb-2">Immediate Impact</h4>
                 <p className="text-slate-300 text-sm">
-                  Proven track record of delivering 60+ RPA projects with measurable business outcomes
+                  Proven track record of delivering 90+ RPA projects with measurable business outcomes and around 5 Fullstack AI software development projects
                 </p>
               </div>
               <div>
@@ -83,7 +83,7 @@ export const Contact = () => {
       
       <div className="text-center mt-16 pb-8">
         <p className="text-slate-400">
-          © 2024 Alrick Fernandes. Transforming processes, one automation at a time.
+          © 2025 Alrick Fernandes. Transforming processes, one automation at a time.
         </p>
       </div>
     </section>
